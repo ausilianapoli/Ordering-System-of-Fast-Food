@@ -1,4 +1,4 @@
-# Ordering-System-of-Fast-Food
+# Ordering System of Fast Food
 
 This is a university project in the field of Databases' course.  
 I choose to create an ordering system of a Fast Food that offers its customers sandwiches and beverage.  
