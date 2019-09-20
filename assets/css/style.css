@@ -1,0 +1,34 @@
+body{
+	background-color: white;
+	background-image: url("../img/bg.jpg");
+	background-position: right top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: tahoma, sans-serif;
+}
+
+.vertical-menu {
+  width: 200px; /* Set a width if you like */
+}
+
+.vertical-menu a {
+  background-color: #F0E68C; /* Grey background color */
+  color: black; /* Black text color */
+  display: block; /* Make the links appear below each other */
+  padding: 2px; /* Add some padding */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.vertical-menu a:hover {
+  background-color: #BDB76B; /* Dark grey background on mouse-over */
+}
+
+.vertical-menu a.active {
+  background-color: #FF4500; /* Add a green color to the "active/current" link */
+  color: white;
+  text-align: center;
+}
+
+.operations{
+	column-count: 4;
+}
